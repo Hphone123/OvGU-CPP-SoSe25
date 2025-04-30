@@ -1,0 +1,3 @@
+/mnt/c/Workspace/Uni/Semester 4/CPP/A03/CMakeFiles/a03.dir
+/mnt/c/Workspace/Uni/Semester 4/CPP/A03/CMakeFiles/edit_cache.dir
+/mnt/c/Workspace/Uni/Semester 4/CPP/A03/CMakeFiles/rebuild_cache.dir

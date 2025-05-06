@@ -1,0 +1,8 @@
+# Cmake Compilation Files (Created by CMake)
+**/CMakeFiles
+
+*.cmake
+CMakeCache.txt
+compile_commands.json
+A*/Makefile
+A*/a*

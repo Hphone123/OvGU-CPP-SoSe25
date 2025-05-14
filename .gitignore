@@ -4,5 +4,10 @@
 *.cmake
 CMakeCache.txt
 compile_commands.json
-A*/Makefile
-A*/a*
+**/Makefile
+
+**/a*
+**/*.a
+**/*.out
+
+**/tests
